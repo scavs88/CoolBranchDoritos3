@@ -7,6 +7,7 @@ namespace TESTING_TOMMY
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Maple syrup and pancakes are good!");
         }
     }
 }
